@@ -1,0 +1,25 @@
+# Roadmap
+
+I want to learn [X]. Please create a comprehensive study plan following the 80-20 rule, focusing on the core 20% of concepts that will allow me to start building projects. The plan should be structured week by week for [Y] weeks, with each week covering specific topics.
+
+After the [Y]-week core learning period, please suggest 5 projects of increasing difficulty (from beginner to advanced) that will help me apply and expand my knowledge of [X]. For each project, provide a brief description and list the key concepts it will help reinforce.
+
+Please ensure the plan is detailed enough for a beginner to follow, but also challenges me to think and problem-solve independently.
+
+
+
+# How to learn X?
+
+I'm learning about [Y] in [X]. Please provide:
+
+1. A concise explanation of [Y], including its purpose and when it's commonly used.
+
+2. A simple code example demonstrating [Y].
+
+3. Three common mistakes or misconceptions beginners often have about [Y], and how to avoid them.
+
+4. Two real-world applications or scenarios where [Y] is particularly useful.
+
+5. Three progressively challenging exercises that will help me practice using [Y]. Please don't provide solutions, only the problem statements.
+
+After providing this information, please ask me a thought-provoking question about [Y] that will encourage me to think deeper about its applications or implications.
