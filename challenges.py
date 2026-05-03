@@ -75,3 +75,14 @@ for i in range(1,11) :
          print(i)
 
 #3
+
+---
+#1 
+def greet():
+    user_input=input("Enter Your Name: ")
+    print(f"Welcome {user_input}  to the Page ")
+    
+greet()
+
+#2
+
