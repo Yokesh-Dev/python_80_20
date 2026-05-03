@@ -52,3 +52,14 @@ Exercise 3 (Challenging):
 Write a function that takes a list of numbers and returns the sum of only the even numbers.
 
 ---
+Exercise 1 (Beginner):
+Create a list of 5 favorite movies. Print the first and last movie.
+
+Exercise 2 (Intermediate):
+Create a dictionary with details of a book (title, author, price). Update the price and print all values.
+
+Exercise 3 (Challenging):
+Given a list of numbers, remove duplicates using a set, convert it back to a list, and sort it.
+
+---
+
