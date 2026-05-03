@@ -42,3 +42,13 @@ Exercise 3 (Challenging):
 Write a program that asks the user for a number and prints whether it is a prime number.
 
 ---
+Exercise 1 (Beginner):
+Write a function that takes a name as input and prints a greeting message.
+
+Exercise 2 (Intermediate):
+Write a function that takes two numbers and returns the larger one.
+
+Exercise 3 (Challenging):
+Write a function that takes a list of numbers and returns the sum of only the even numbers.
+
+---
