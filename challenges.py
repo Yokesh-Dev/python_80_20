@@ -38,3 +38,40 @@ lists.append(25)
 print(lists , len(lists))
 lists.remove(11)
 print(lists , len(lists))
+
+
+
+#1 
+lists = [1,2,3,4,5]
+print(lists[0] , lists[4])
+
+
+#2 
+dicty ={"name" :"Moses", "age":12 , "city":"Russia" }
+dicty["age"]= 17
+
+print(dicty)
+
+# 3
+lists =[1,2,3,4,5,5,6,7,8,8,7,6]
+print(lists)
+filters_lists= sorted(set(lists))
+print(filters_lists)
+
+---
+#1 
+num = 4
+
+if num > 0:
+    print("Positive")
+elif num < 0:
+    print("Negative")
+else:
+    print("Zero")
+
+#2 
+for i in range(1,11) :
+    if(i  %2 ==0) :
+         print(i)
+
+#3
