@@ -32,3 +32,13 @@ Exercise 3 (Challenging):
 Given a list of numbers with duplicates, create a program that removes duplicates and prints the result as a sorted list.
 
 --- 
+Exercise 1 (Beginner):
+Write a program that checks if a number is positive, negative, or zero.
+
+Exercise 2 (Intermediate):
+Use a for loop to print numbers from 1 to 10. Modify it to print only even numbers.
+
+Exercise 3 (Challenging):
+Write a program that asks the user for a number and prints whether it is a prime number.
+
+---
