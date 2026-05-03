@@ -62,4 +62,14 @@ Exercise 3 (Challenging):
 Given a list of numbers, remove duplicates using a set, convert it back to a list, and sort it.
 
 ---
+Exercise 1 (Beginner):
+Write a program that asks the user for a number and handles invalid input using exception handling.
+
+Exercise 2 (Intermediate):
+Create a program that takes two numbers and handles division errors (like dividing by zero).
+
+Exercise 3 (Challenging):
+Write a program that reads a file name from the user and handles the case where the file does not exist. If it exists, print its contents.
+
+---
 
